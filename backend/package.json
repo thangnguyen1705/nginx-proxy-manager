@@ -19,7 +19,7 @@
 		"jsonwebtoken": "^8.5.1",
 		"knex": "^0.20.10",
 		"liquidjs": "^9.7.1",
-		"lodash": "^4.17.15",
+		"lodash": "^4.17.19",
 		"moment": "^2.24.0",
 		"mysql": "^2.18.1",
 		"node-rsa": "^1.0.7",
